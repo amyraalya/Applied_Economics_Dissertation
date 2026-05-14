@@ -1,6 +1,10 @@
 # ============================================================
 # The Effect of Brexit on Digital Advertising Intensity:
 # A Comparative Case Study between the UK and the EU
+
+# Amyra Alya Abdullah
+# 11309743
+# May 2026
 # ============================================================
 
 install.packages(c("lfe", "patchwork", "boot", "flextable")) 
